@@ -12,9 +12,9 @@
 
 ### Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,kubernetes,nginx,docker,c,js,html,css,vim,flutter,react,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,js,kubernetes,nginx,docker,flutter,react,azure,gcp" />
   </a>
 </p>
 
