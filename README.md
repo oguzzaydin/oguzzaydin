@@ -1,17 +1,23 @@
-<h1>Hi , I'm Oğuzhan Aydın <img src="https://avatars.githubusercontent.com/u/33254026?s=40&v=4" width="35"></h1>
-<h2>  SENIOR SOFTWARE DEVELOPER </h2>
+<h1>Hi , I'm Oğuzhan Aydın </h1>
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
 
 - Hello Everyone 👋, My name is Oğuzhan.<br>
-- I'm Software Developer <br>
+- I'm Sr.Software Developer <br>
 - I'm insterested in .Net/React/Go/Microservice etc.<br>
-- 💞️ I’m looking to collaborate on ...
 - You can see my linkedn profile at [Linkdn](https://www.linkedin.com/in/o%C4%9Fuzhan-ayd%C4%B1n-4078b1156/)<br>
 
 <img src="https://komarev.com/ghpvc/?username=oguzzaydin&label=Profile%20views&color=8042fc&style=plastic" alt="oguzzaydin" /> 
 
 ### Skills
 
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
+
+
+### Badges
+<a href="http://www.github.com/oguzzaydin"><img src="https://github-readme-stats.vercel.app/api?username=oguzzaydin&show_icons=true&hide=&count_private=true&title_color=8042fc&text_color=ffffff&icon_color=8042fc&bg_color=000000&hide_border=true&show_icons=true" alt="oguzzaydin's GitHub stats" /></a>
 
