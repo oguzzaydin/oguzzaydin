@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @oguzzaydin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- Hello Everyone 👋, My name is Oğuzhan.<br>
+- I'm Software Developer <br>
+- I'm insterested in .Net/React/Go/Microservice etc.<br>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- You can see my linkedn profile at [Linkdn](https://www.linkedin.com/in/o%C4%9Fuzhan-ayd%C4%B1n-4078b1156/)<br>
 
-<!---
-oguzzaydin/oguzzaydin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://komarev.com/ghpvc/?username=oguzzaydin&label=Profile%20views&color=8042fc&style=plastic" alt="oguzzaydin" /> 
+
+### Skills
+
+
